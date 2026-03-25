@@ -5,7 +5,7 @@ Dibuatnya repository ini bertujuan untuk keperluan tugas kelompok pada mata kuli
 Kelompok 10
 
 ## Anggota
-- SungginG Roro Amru Prasetyo 2313020099 
+- Sungging Roro Amru Prasetyo 2313020099 
 - Abhar Ro'afa Zahida 2313020231
 - Miftah Septia Ningrum 2313020205
 
